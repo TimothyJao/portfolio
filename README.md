@@ -1,4 +1,5 @@
-# V4
+# Acknowledgments
+Special thanks to Brittany Chiang [https://brittanychiang.com/](https://brittanychiang.com/) for providing the inspiration and skeleton for this portfolio site of mine.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status)](https://app.netlify.com/sites/brittanychiang/deploys)
 
