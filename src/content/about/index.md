@@ -2,18 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
+  - JavaScript
   - HTML & (S)CSS
   - React
-  - Vue
+  - Redux
   - Node.js
   - Express
-  - GraphQL
-  - NativeScript
+  - Postgresql
+  - Node.js
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Timothy, a software engineer based in San Francisco, CA. I once built robots and sensors but now I build websites and applications.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after graduating from University of California, Los Angeles in Electrical Engineering, I realized how much I love programming and its various uses. I am currently a student at App Academy and furthering my knowledge in computer science.
 
-Here's a few technologies I've been working with recently:
+Here's a few technologies I've been using lately:
