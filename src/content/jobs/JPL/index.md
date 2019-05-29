@@ -1,6 +1,6 @@
 ---
 date: '2014-09-19'
-title: 'Software Engineering Intern'
+title: 'Software Intern'
 company: 'Jet Propulsion Labratory'
 location: 'Pasadena, CA'
 range: 'June 2014 - Sept 2014'

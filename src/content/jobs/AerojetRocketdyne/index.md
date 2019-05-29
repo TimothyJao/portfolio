@@ -1,9 +1,9 @@
 ---
 date: '2017-12-08'
-title: 'Hardware Engineering Intern'
+title: 'Hardware Intern'
 company: 'Aerojet Rocketdyne'
 location: 'Canoga Park, CA'
-range: 'June - Dec 2017'
+range: 'June 2017 - Dec 2017'
 url: 'https://www.rocket.com/'
 ---
 
