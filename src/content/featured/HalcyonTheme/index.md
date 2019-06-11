@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Erised'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://erised-app.herokuapp.com/'
 tech:
   - VS Code
   - Sublime Text

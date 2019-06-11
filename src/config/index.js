@@ -12,7 +12,7 @@ module.exports = {
   name: 'Timothy Jao',
   location: 'San Francisco, CA',
   email: 'timothy.i.jao@gmail.com',
-  github: 'https://github.com/bchiang7/',
+  github: 'https://github.com/TimothyJao/',
   socialMedia: [
     {
       name: 'Github',
@@ -21,18 +21,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/timothy-jao-670718b5/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
     },
   ],
 
@@ -55,8 +43,8 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
-  googleAnalyticsID: 'UA-45666519-2',
+  // twitterHandle: '@bchiang7',
+  // googleAnalyticsID: 'UA-45666519-2',
 
   navHeight: 100,
 

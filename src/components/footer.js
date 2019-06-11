@@ -1,14 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import {
-  IconGithub,
-  IconLinkedin,
-  IconCodepen,
-  IconInstagram,
-  IconTwitter,
-  IconStar,
-  IconFork,
-} from '@components/icons';
+import { IconGithub, IconLinkedin, IconStar, IconFork } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
@@ -83,12 +75,6 @@ const Footer = ({ githubInfo }) => (
                   <IconGithub />
                 ) : name === 'Linkedin' ? (
                   <IconLinkedin />
-                ) : name === 'Codepen' ? (
-                  <IconCodepen />
-                ) : name === 'Instagram' ? (
-                  <IconInstagram />
-                ) : name === 'Twitter' ? (
-                  <IconTwitter />
                 ) : (
                   <IconGithub />
                 )}
