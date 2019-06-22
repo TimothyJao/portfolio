@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Erised'
-cover: './erised.png'
-github: 'https://github.com/TimothyJao/Erised'
-external: 'https://erised-app.herokuapp.com/'
+title: 'Dunder'
+cover: './dunder.png'
+github: 'https://github.com/TimothyJao/Dunder'
+external: 'https://dunder-app.herokuapp.com/'
 tech:
   - Ruby on Rails
   - React
