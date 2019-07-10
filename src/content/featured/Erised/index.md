@@ -8,7 +8,7 @@ tech:
   - Ruby on Rails
   - React
   - Redux
-  - Postgresql
+  - PostgreSQL
 show: 'true'
 ---
 
