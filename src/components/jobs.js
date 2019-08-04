@@ -18,6 +18,7 @@ const TabsContainer = styled.div`
     display: block;
   `};
 `;
+
 const Tabs = styled.ul`
   display: block;
   position: relative;
