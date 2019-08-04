@@ -7,7 +7,6 @@ import { IconGithub, IconExternal } from '@components/icons';
 import styled from 'styled-components';
 import { theme, mixins, media, Section, Heading } from '@styles';
 const { colors, fontSizes, fonts } = theme;
-
 const FeaturedContainer = styled(Section)`
   ${mixins.flexCenter};
   flex-direction: column;
