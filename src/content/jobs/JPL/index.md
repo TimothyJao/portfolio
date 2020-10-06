@@ -1,5 +1,5 @@
 ---
-date: 'Present'
+date: '2020-10-05'
 title: 'Software Engineer'
 company: 'Yahoo!'
 location: 'Sunnyvale, CA'
